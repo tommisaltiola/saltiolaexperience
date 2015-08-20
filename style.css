@@ -1,0 +1,22 @@
+body {
+    background: black;
+}
+
+.panorama {
+    height: 400px;
+    position: relative;
+}
+
+.texts {
+    color: #928F80;
+    
+    position: absolute;
+    top:20px;
+    left:20px;
+    z-index: 10;
+}
+
+a {
+    color: #63879D;
+    font-size: 1.5em;
+}
