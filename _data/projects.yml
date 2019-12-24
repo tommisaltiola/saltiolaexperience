@@ -5,5 +5,15 @@
   description: | # this will include new lines to allow paragraphs
     With your Business Portrait you can persuade our audience to give a professional impression to your clients or you boss
     
+<form action="https://getform.io/f/fc1a22f4-7931-4383-a9c3-2352173fb6d7" method="POST" enctype="multipart/form-data">
+
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="tel" name="tel">
+    <input type="file" name="file">
+    <button type="submit">Send</button>
+
+</form>
+    
     <div data-prodibi='{"type":"grid","settings":{"container":"wy2kyl28z89gm6v","account":"saltiola7"}}'><script>;!function() {if (window.prodibiAsync == null) { var s = document.createElement('script'); s.async = !0; s.src = 'https://max1.prodibicdn.com/libraries/pages/prodibi.embed.2.0.min.js'; document.body.appendChild(s); }window.prodibiAsync = window.prodibiAsync || [];prodibiAsync.push({ type: "settings", settings: { account: "saltiola7" } });}();</script></div>
 
