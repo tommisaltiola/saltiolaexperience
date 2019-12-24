@@ -2,48 +2,27 @@
 favicon: images/favicon.ico
 
 # Personal info
-name: Tommi Saltiola
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Business Portrait
+title: More than a headshot
+email: tommi@saltiolaexperience.com
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
 instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
 youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Business Portrait is more than a headshot. Every detail of the shot is a decicion to make you stand out for your audience
 
 # Projects Section
 # projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+<div data-prodibi='{"type":"grid","settings":{"container":"wy2kyl28z89gm6v","account":"saltiola7"}}'><script>;!function() {if (window.prodibiAsync == null) { var s = document.createElement('script'); s.async = !0; s.src = 'https://max1.prodibicdn.com/libraries/pages/prodibi.embed.2.0.min.js'; document.body.appendChild(s); }window.prodibiAsync = window.prodibiAsync || [];prodibiAsync.push({ type: "settings", settings: { account: "saltiola7" } });}();</script></div>
 
 # Footer
 footer_show_references: true
