@@ -4,3 +4,6 @@
     Business Portrait is more than a headshot as all the details of the photoshoot is a decision to make you stand out to your audience.
   description: | # this will include new lines to allow paragraphs
     With your Business Portrait you can persuade our audience to give a professional impression to your clients or you boss
+    
+    <div data-prodibi='{"type":"grid","settings":{"container":"wy2kyl28z89gm6v","account":"saltiola7"}}'><script>;!function() {if (window.prodibiAsync == null) { var s = document.createElement('script'); s.async = !0; s.src = 'https://max1.prodibicdn.com/libraries/pages/prodibi.embed.2.0.min.js'; document.body.appendChild(s); }window.prodibiAsync = window.prodibiAsync || [];prodibiAsync.push({ type: "settings", settings: { account: "saltiola7" } });}();</script></div>
+
