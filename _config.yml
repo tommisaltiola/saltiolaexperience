@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Business Portrait
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: More than just a headshot - In Business Portrait every detail of the photoshoot is a decision to make you stand out for your audience!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,6 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Resources:
+  Blog: "Blog"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
@@ -59,8 +60,8 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Some Person
+author: Tommi Saltiola
+  name: Business Portrait
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,22 +69,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
+  email: "tommi@saltiolaexperience.com"
+  facebook: saltiolaphotography
+#  twitter: daattali
+  telephone: +358407479512
+  instagram: saltiola.photography
 #  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -138,6 +130,7 @@ staticman:
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
+paginate_path: "/blog/page:num/"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -156,10 +149,10 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Helsinki"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:day-:month-:year-:title/
 paginate: 5
 
 kramdown:
